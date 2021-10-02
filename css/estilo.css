@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.container{
+    text-align: center;
+    padding: 20px;
+}
+.titulo{
+    font-family: monospace;
+    font-size: 50px;
+}
+.destaque{
+    background-color: black;
+    color: white;
+}
+.container img{
+    height: 250px;
+    width: 250px;
+    object-fit: cover;
+    margin: 5px;
+}
+video{
+    width: 90vh;
+}
+iframe{
+    width: 90vh;
+}
